@@ -11,4 +11,10 @@ Location: Sơn Trà, Đà Nẵng, Việt Nam
 
 <p>
     <a href="https://github.com/search?q=user%3AHuan2302+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23007396.svg?logo=java&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AHuan2302+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+</p>
+
+### 🧰 Frameworks and libraries
+
+<p>
 </p>
