@@ -6,3 +6,9 @@ Timezone: Asia/Ho_Chi_Minh
 Location: Sơn Trà, Đà Nẵng, Việt Nam
 
 </pre>
+
+### 👨‍💻 Programming languages
+
+<p>
+    <a href="https://github.com/search?q=user%3AHuan2302+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java%20-%23007396.svg?logo=java&logoColor=white"></a>
+</p>
